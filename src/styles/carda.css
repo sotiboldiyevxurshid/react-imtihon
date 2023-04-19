@@ -1,0 +1,131 @@
+.salom:hover{
+    border: 2px solid green;
+    border-radius: 20px;
+    text-align: center;
+    transition: 1s;
+    
+    }
+    
+    .salom{
+       width: 140px;
+       height: 60px;
+       text-align: center;
+       width: 153px;
+       
+    }
+    
+    .div_section{
+        display: flex;
+        margin-top: 20px;
+    }
+    .div_section1{
+        display: flex;
+        
+    }
+    
+    .card_section{
+        width: 90%;
+        margin: auto;
+        font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    
+    
+    /* Gray 3 */
+    
+    color: #828282;
+    margin-top: 20px;
+    }
+    
+    .card_section1{
+        width: 90%;
+        margin: auto;
+        font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* or 100% */
+    
+    
+    /* Black */
+    
+    color: #231F20;
+    }
+    
+    .div_div{
+        display: flex;
+        gap: 70px;
+    }
+    
+    .div_div1{
+        display: flex;
+        gap: 30px;
+    }
+    
+    .section_h1{
+        font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    
+    /* Black */
+    
+    color: #231F20;
+    
+    }
+    
+    .section_h2{
+        font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-decoration-line: line-through;
+    
+    /* Gray 3 */
+    
+    color: #828282;
+    }
+    
+    .section_btn{
+        background: #F2F2F2;
+    border-radius: 5px;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+    }
+    
+    .section_btn:hover{
+        background: #96D328;
+    }
+    
+    .section_btn1{
+        width: 100px;
+        border-radius: 10px;
+        border: 1px solid green;
+    }
+    @media (max-width:575px) {
+        .classname2{
+            margin-top: 600px;
+            margin-left: -343px;
+        }
+
+        .classname3{
+            margin-top: 1200px;
+            margin-left: -367px;
+        }
+
+        .classname4{
+            margin-top: 1800px;
+            margin-left: -394px;
+        }
+    }
