@@ -10,6 +10,7 @@ const NavbarRouter = () => {
   <Container>
         <Row>
             <Col>
+            
             <Nav justify variant="tabs" defaultActiveKey="/home" >
       <Nav.Item>
        <Link to ="/home" style={{textDecoration:"none"}}>
